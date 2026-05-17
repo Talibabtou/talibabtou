@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Guillaume Dumas</h1>
-  <p><em>"As long as i'm alive, there is infinite chances that I succeed"</em> - Monkey D. Luffy</p>
+  <p><em>"As long as i'm alive, there is infinite chances"</em> - Monkey D. Luffy</p>
 </div>
 
 <div align="center">
