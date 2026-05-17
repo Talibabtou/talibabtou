@@ -50,7 +50,7 @@
 <tr>
 <td width="50%">
 
-🎲 **[Soltybet (v1)](https://github.com/Talibabtou/soltybet)** now **[Versus (v2)](https://versus.rip)**<br>*Blockchain Betting Platform*<br><br>• Decentralized betting application<br>• Smart contract integration<br>• Modern web interface<br><br>**Tech:** Rust, Python, TypeScript, Reactjs
+🎲 **[Soltybet (v1)](https://github.com/Talibabtou/soltybet)** now **[Versus (v2)](https://github.com/Talibabtou/versusrip)**<br>*Blockchain Betting Platform*<br><br>• Decentralized betting application<br>• Smart contract integration<br>• Modern web interface<br><br>**Tech:** Rust, Python, TypeScript, Reactjs
 
 </td>
 <td width="50%">
