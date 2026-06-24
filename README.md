@@ -17,7 +17,7 @@
 📅 **Coding since:** 2023  
 
 <div align="center">
-[talibabtou.dev](https://talibabtou.dev/)
+https://talibabtou.dev
 </div>
 
 ## 💼 Professional Experience
