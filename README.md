@@ -16,6 +16,8 @@
 🎯 **Current Focus:** Rust development for Solana smart contracts and blockchain infrastructure  
 📅 **Coding since:** 2023  
 
+Check my portfolio: **[talibabtou.dev](https://talibabtou.dev)**
+
 ## 💼 Professional Experience
 <div align="center">
 
