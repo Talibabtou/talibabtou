@@ -9,9 +9,8 @@
 
 ## 🚀 About Me
 
-💼 **Front-End Developer at [Jupiter](https://jup.ag/)** - Building [Prediction Market](https://jup.ag/prediction) on Solana  
-🎓 **42 School Lyon** - Completed Common Core  
-💻 **Frontend-focused Developer** with a passion for clean, readable code and interfaces  
+💻 **Frontend-focused Developer** with a passion for clean, readable code and interfaces - Open to work
+🎓 **42 School Lyon** - Completed Common Core
 
 🔗 **Blockchain Enthusiast** building the future of decentralized applications  
 🎯 **Current Focus:** Rust development for Solana smart contracts and blockchain infrastructure  
@@ -22,8 +21,8 @@
 
 | Company | Role | Focus |
 |---------|------|-------|
-| **[Jupiter](https://x.com/JupiterExchange)** | Developer | Front End Development |
-| **[Adrena](https://x.com/AdrenaProtocol)** | Developer | Open Source Development |
+| **[Jupiter](https://x.com/JupiterExchange)** | Developer | Frontend Development |
+| **[Adrena](https://x.com/AdrenaProtocol)** | Developer | Open Source Frontend Development |
 | **[Versus](https://x.com/Versus_rip)** | Founder/Developer | AI & Prediciton |
 | **[Magicake](https://x.com/MagiCake_NFT)** | Founder/Developer | Product Manager |
 | **[Doge Capital](https://x.com/thedogecapital)** | Board Member | Community & Strategy |
