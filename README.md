@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-💻 **Frontend-focused Developer** with a passion for clean, readable code and interfaces - Open to work
-🎓 **42 School Lyon** - Completed Common Core
+💻 **Frontend-focused Developer** with a passion for clean, readable code and interfaces - Open to work  
+🎓 **42 School Lyon** - Completed Common Core  
 
 🔗 **Blockchain Enthusiast** building the future of decentralized applications  
 🎯 **Current Focus:** Rust development for Solana smart contracts and blockchain infrastructure  
